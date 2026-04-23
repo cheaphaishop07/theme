@@ -104,37 +104,37 @@
         "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "car-suspension"
+            "collection": "adobe"
           }
         },
         "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "car-engine"
+            "collection": "animation-2d-3d-design"
           }
         },
         "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "engine-oil-service"
+            "collection": "graphic-design-image-editing"
           }
         },
         "34c1f57d-204a-4103-b7ed-de48a384460f": {
           "type": "featured_collection",
           "settings": {
-            "collection": "engine-scan"
+            "collection": "seo-search-engine-opimization"
           }
         },
         "69568a46-939a-424c-8c26-68e4def2e12b": {
           "type": "featured_collection",
           "settings": {
-            "collection": "break-disc"
+            "collection": "video-editing-motion-graphics"
           }
         },
         "e240a1a0-9968-4b91-ae27-e9b2820c6b74": {
           "type": "featured_collection",
           "settings": {
-            "collection": "electrical-works"
+            "collection": "whatsapp-automation-software"
           }
         },
         "5497588e-d586-4a74-bd5a-733574027c4d": {
@@ -189,44 +189,44 @@
       "settings": {
         "page_full_width": true,
         "page_full_width_spacing": true,
-        "title": "Our Products",
+        "title": "Recommended Products",
         "heading_size": "h1",
         "sub_heading": "",
-        "description": "Velit laoreet id donec ultrices tincidunt aliquam sem fringil arcu. ",
+        "description": "Discover our top-rated products handpicked just for you",
         "button_label": "",
         "button_link": "",
         "button_style_secondary": false,
         "column_alignment": "center",
         "collection": "car-spares",
-        "products_to_show": 3,
-        "columns_desktop": 3,
+        "products_to_show": 5,
+        "columns_desktop": 5,
         "show_view_all": false,
         "view_all_style": "solid",
         "color_scheme": "inverse",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": true,
         "show_new_tag": false,
-        "show_rating": false,
+        "show_rating": true,
         "ebable_additional_banner": true,
-        "additional_sub_heading": "The #1 supplier of car parts",
-        "additional_heading": "Providing high-quality car parts for any brands",
-        "additional_desc": "Suspendisse ultrices gravida dictum fusce ut placerat. Urna id volutpat lacus laoreet non curabitur gravida. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Tincidunt arcu non sodales neque sodales.",
+        "additional_sub_heading": "",
+        "additional_heading": "",
+        "additional_desc": "",
         "additional_link": "/",
         "additional_text": "Get New Plans",
         "padding_top": 120,
         "padding_bottom": 0,
         "custom_class_name": "custom-collection-banner",
-        "swiper_enable": false,
-        "desktop_column": 4,
+        "swiper_enable": true,
+        "desktop_column": 5,
         "laptop_column": 3,
         "tablet_column": 2,
         "mobile_column": 1,
         "centered_slide": false,
-        "swiper_pagination": false,
+        "swiper_pagination": true,
         "swiper_navigation": false,
-        "auto_play": 0,
-        "swipe_on_mobile": false,
+        "auto_play": 5,
+        "swipe_on_mobile": true,
         "arrow_on_mobile": false,
         "columns_mobile": "1"
       }
