@@ -208,7 +208,7 @@
         "show_vendor": true,
         "show_new_tag": false,
         "show_rating": true,
-        "ebable_additional_banner": true,
+        "ebable_additional_banner": false,
         "additional_sub_heading": "",
         "additional_heading": "",
         "additional_desc": "",
@@ -284,11 +284,12 @@
         "7bca66a5-21d1-4261-aba7-a80639a52bb7": {
           "type": "text",
           "settings": {
+            "block_image": "shopify://shop_images/download_1.jpg",
             "show_content": true,
-            "block_title": "Synthetic Oil For Automobile Engines",
+            "block_title": "Software",
             "enable_title_link": false,
             "block_sub_title": "",
-            "block_description": "Vitae congue eu consequat ac. Massa vitae tortor condimentum lacinia quis.",
+            "block_description": "Premium Software Deals",
             "block_button_text": "Shop Now",
             "block_button_link": "shopify://collections/engine-scan",
             "block_author_text": "",
@@ -299,11 +300,12 @@
         "1ceace9d-5a67-4ff0-b0d8-1021b55525e7": {
           "type": "text",
           "settings": {
+            "block_image": "shopify://shop_images/Assassin_s_Creed_Unity_cover.jpg",
             "show_content": true,
-            "block_title": "Alloy Wheels & Tubeless Tyres",
+            "block_title": "Games",
             "enable_title_link": false,
             "block_sub_title": "",
-            "block_description": "Vel risus commodo viverra maecenas accumsan consequat mauris nunc cons.",
+            "block_description": "Top PC & Console Games",
             "block_button_text": "Shop Now",
             "block_button_link": "shopify://collections/car-engine",
             "block_author_text": "",
@@ -314,11 +316,12 @@
         "304280cb-80dc-422d-ac40-48dd87e4ff92": {
           "type": "text",
           "settings": {
+            "block_image": "shopify://shop_images/Netflix-Symbol.png",
             "show_content": true,
-            "block_title": "Automobile Parts & Accessories",
+            "block_title": "Subscriptions",
             "enable_title_link": false,
             "block_sub_title": "",
-            "block_description": "Faucibus in ornare quam viverra orci sagittis eu volutpat nunc sed blandit.",
+            "block_description": "OTT & Digital Subscriptions",
             "block_button_text": "Shop Now",
             "block_button_link": "shopify://collections/electrical-works",
             "block_author_text": "",
@@ -371,43 +374,43 @@
         "d70647a2-204d-4742-b07e-125cfdb81bc2": {
           "type": "tab",
           "settings": {
-            "collection": "car-spares",
+            "collection": "adobe",
             "title": "All"
           }
         },
         "4aad1ddf-12aa-4122-b47d-75d30717ee50": {
           "type": "tab",
           "settings": {
-            "collection": "break-disc",
-            "title": "Battery"
+            "collection": "animation-2d-3d-design",
+            "title": "Animation"
           }
         },
         "d2a103f4-af25-4fa3-900b-7397309aa2bc": {
           "type": "tab",
           "settings": {
-            "collection": "car-engine",
-            "title": "Clutch"
+            "collection": "digital-forensics",
+            "title": "Forensics"
           }
         },
         "724ccfe0-7e42-4a10-8178-dd9bf7269aae": {
           "type": "tab",
           "settings": {
-            "collection": "car-suspension",
-            "title": "Engine"
+            "collection": "seo-search-engine-opimization",
+            "title": "SEO"
           }
         },
         "1adc91c3-d6d7-4a0a-b6c3-8b233e91b237": {
           "type": "tab",
           "settings": {
-            "collection": "electrical-works",
-            "title": "Brakes"
+            "collection": "video-editing-motion-graphics",
+            "title": "Editing"
           }
         },
         "be92f779-110c-4ead-b26f-f52ee530620d": {
           "type": "tab",
           "settings": {
-            "collection": "engine-scan",
-            "title": "Radiators"
+            "collection": "whatsapp-automation-software",
+            "title": "automation"
           }
         }
       },
@@ -429,7 +432,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "products_to_show": 12,
+        "products_to_show": 8,
         "products_per_row": 4,
         "enable_slider": false,
         "enable_dotts": false,
@@ -443,6 +446,7 @@
         "add_image_padding": false,
         "show_vendor": true,
         "layout": "none",
+        "image": "shopify://shop_images/name_and_tag.png",
         "image_block_heading": "Main Heading",
         "image_block_sub_heading": "Sub Heading",
         "image_block_description": "",
@@ -461,14 +465,14 @@
         "template--19459822584088__3e74f993-de75-4453-96f7-14fa524484bf-1687245448edb08088-0": {
           "type": "heading",
           "settings": {
-            "heading": "Electrical Diagnosis",
+            "heading": "Cheap Hai",
             "heading_size": "h1"
           }
         },
         "template--19459822584088__3e74f993-de75-4453-96f7-14fa524484bf-1687245448edb08088-1": {
           "type": "text",
           "settings": {
-            "text": "Phasellus euismod urna risus, eu accumsan lacus finibus at. Sed at ligula at nisl viverra aliquam quis eu neque. Donec fringilla enim a augue facilisis, quis egestas ipsum finibus.",
+            "text": "YOUR ONE-STOP SHOP FOR PREMIUM DIGITAL PRODUCTS",
             "text_style": "body"
           }
         },
@@ -492,6 +496,8 @@
       "settings": {
         "page_full_width": true,
         "page_full_width_spacing": false,
+        "image": "shopify://shop_images/name_and_tag.png",
+        "image_2": "shopify://shop_images/full_logo.png",
         "image_overlay_opacity": 100,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -512,15 +518,15 @@
       "settings": {
         "page_full_width": true,
         "page_full_width_spacing": true,
-        "title": "New Arrivals",
+        "title": "Latest Digital Products",
         "heading_size": "h1",
         "sub_heading": "",
-        "description": "Pellentesque habitant morbi tristique senectus. Tortor at risus viverra adipiscing at in tellus integer.",
+        "description": "Discover newly added software, games, and subscriptions at unbeatable prices.",
         "button_label": "",
         "button_link": "",
         "button_style_secondary": false,
         "column_alignment": "center",
-        "collection": "car-engine",
+        "collection": "digital-forensics",
         "products_to_show": 4,
         "columns_desktop": 4,
         "show_view_all": false,
@@ -561,8 +567,8 @@
           "type": "column",
           "settings": {
             "icon_class": "",
-            "title": "Premium Products",
-            "text": "<p>Etiam actempor lacus. Nuncvehser vehicula exeget varius.</p>",
+            "title": "100% Genuine Products",
+            "text": "<p>Safe, verified and working digital products</p>",
             "link_label": "",
             "link": ""
           }
@@ -571,8 +577,8 @@
           "type": "column",
           "settings": {
             "icon_class": "",
-            "title": "Secure Payments",
-            "text": "<p>Duis lacinia vestibulum turp sodales enim blandit at. Proin sodales.</p>",
+            "title": "Instant Delivery",
+            "text": "<p><em>Get access within seconds after purchase</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -581,8 +587,8 @@
           "type": "column",
           "settings": {
             "icon_class": "",
-            "title": "Easy Returns",
-            "text": "<p>Integer tincidunt diam utsemtris tique tempor leo suscipit.</p>",
+            "title": "Secure Payments",
+            "text": "<p>Safe checkout with trusted payment methods</p>",
             "link_label": "",
             "link": ""
           }
@@ -591,8 +597,8 @@
           "type": "column",
           "settings": {
             "icon_class": "",
-            "title": "Free Delivery",
-            "text": "<p>Risus atnisl placerat, in vehicula metus dictum uiseu egestas.</p>",
+            "title": "Dedicated Support",
+            "text": "<p><em>Fast help whenever you need assistance</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -645,6 +651,7 @@
     },
     "08c573ae-4c44-456f-ba63-3d9c052c85f0": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "page_full_width": true,
         "page_full_width_spacing": true,
