@@ -449,7 +449,7 @@
           "0b05e90a-7ec9-4eaa-89f5-bd2c106772c3"
         ],
         "settings": {
-          "display_recent_purchase": true,
+          "display_recent_purchase": false,
           "placement": "left",
           "text": "Someone purchased"
         }
@@ -457,7 +457,7 @@
       "cookie-banner": {
         "type": "cookie-banner",
         "settings": {
-          "show_gdpr": true,
+          "show_gdpr": false,
           "style": "right",
           "color_scheme": "inverse",
           "text": "Please click Accept Cookies to continue to use the site.",
@@ -525,7 +525,7 @@
         ],
         "settings": {
           "disable_announcement_bar": true,
-          "disable_announcement_bar_mobile": false,
+          "disable_announcement_bar_mobile": true,
           "announcement_color_scheme": "background-1",
           "page_full_width": true,
           "page_full_width_spacing": true,
@@ -534,10 +534,10 @@
           "disable_topbar_mobile": true,
           "top_bar_alignment": "left",
           "header_mail": "",
-          "header_timing": "Monday To Sunday 9:00am to 9.00pm",
-          "header_phone": "00 123 456 789",
-          "header_pickup": "Free Doorstep Pick-up & Drop",
-          "text": "Free Shipping for all order over $100",
+          "header_timing": "Monday To Sunday 9:00am to 10.00pm",
+          "header_phone": "954 208 2130",
+          "header_pickup": "Trusted by marketers",
+          "text": "Instant access & download",
           "enable_text_icon": false,
           "link_text": "",
           "link": "",

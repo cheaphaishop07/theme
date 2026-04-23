@@ -15,11 +15,12 @@
         "e31e4497-9ea4-4ad1-9e59-3d6f5022f46c": {
           "type": "text",
           "settings": {
+            "block_image": "shopify://shop_images/ChatGPT_Image_Apr_23_2026_06_46_32_PM.png",
             "show_image": true,
             "show_content": true,
-            "block_title": "We provide quality <span>auto parts</span>",
-            "block_sub_title": "Auto Parts Supplier",
-            "block_description": "Faucibus in ornare quam viverra orci. Justo nec ultrices dui sapien eget. Porttitor rhoncus dolor purus non enim praesent elementum.",
+            "block_title": "Buy Premium Software, Games, Courses & Subscriptions at Cheap Prices",
+            "block_sub_title": "",
+            "block_description": "",
             "block_button_text": "Shop Now",
             "block_button_link": "shopify://collections/engine-scan",
             "block_text_align": "left",
@@ -29,9 +30,10 @@
         "f63c9ba9-b93c-4d94-aa24-21e2929f7291": {
           "type": "text",
           "settings": {
+            "block_image": "shopify://shop_images/download.jpg",
             "show_image": true,
             "show_content": true,
-            "block_title": "All Model <span> Car Parts</span>",
+            "block_title": "All Adobe Products at Lowest Price",
             "block_sub_title": "",
             "block_description": "",
             "block_button_text": "",
@@ -43,9 +45,10 @@
         "ae6ea94d-8e1e-4825-992d-1a888e4ea299": {
           "type": "text",
           "settings": {
+            "block_image": "shopify://shop_images/ChatGPT_Image_Apr_23_2026_06_54_26_PM.png",
             "show_image": true,
             "show_content": true,
-            "block_title": "Expensive model car <span>tools</span>",
+            "block_title": "Expensive Subscriptions at Lowest Price",
             "block_sub_title": "",
             "block_description": "",
             "block_button_text": "",
@@ -153,10 +156,10 @@
       "settings": {
         "page_full_width": true,
         "page_full_width_spacing": true,
-        "title": "Shop By Category",
+        "title": "Explore Our Digital Products",
         "heading_size": "h1",
         "sub_heading": "",
-        "description": "Sagittis purus sit amet ultrices dui volutpat consequat mauris.",
+        "description": "Premium digital products at the lowest prices – instant access, no hassle.",
         "button_label": "",
         "button_link": "",
         "button_style_secondary": false,
