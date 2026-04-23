@@ -780,6 +780,7 @@
         "f3c3f8de-2fd0-4bfe-af51-18093ac915b2",
         "c9cdf878-5dcf-498f-9e75-8c2f2cfca8ff"
       ],
+      "disabled": true,
       "settings": {
         "page_full_width": true,
         "page_full_width_spacing": true,
@@ -823,7 +824,7 @@
         "template--19459822584088__cf9da49c-ed6c-48ff-b3a7-b585d2e32106-168732765801a3b58b-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>At auctor urna nunc id cursus. Sem et tortor consequat id porta nibh venenatis cras sed. Fringilla phasellus faucibus scelerisque.</p>"
+            "text": "<p><strong>Get Exclusive Deals & Discounts</strong></p>"
           }
         },
         "template--19459822584088__cf9da49c-ed6c-48ff-b3a7-b585d2e32106-168732765801a3b58b-2": {
@@ -880,35 +881,40 @@
         "image_nzV4BF": {
           "type": "image",
           "settings": {
-            "block_heading": "Main Heading",
+            "block_heading": "Adobe",
+            "block_img": "shopify://shop_images/download.jpg",
             "link": ""
           }
         },
         "image_Qdh6qG": {
           "type": "image",
           "settings": {
-            "block_heading": "Main Heading",
+            "block_heading": "Microsoft",
+            "block_img": "shopify://shop_images/download.png",
             "link": ""
           }
         },
         "image_cRUJUQ": {
           "type": "image",
           "settings": {
-            "block_heading": "Main Heading",
+            "block_heading": "Netflix",
+            "block_img": "shopify://shop_images/Netflix-Symbol.png",
             "link": ""
           }
         },
         "image_eeUkgW": {
           "type": "image",
           "settings": {
-            "block_heading": "Main Heading",
+            "block_heading": "Amazon Prime Video",
+            "block_img": "shopify://shop_images/download_1.png",
             "link": ""
           }
         },
         "image_bxaGbB": {
           "type": "image",
           "settings": {
-            "block_heading": "Main Heading",
+            "block_heading": "SEMrush",
+            "block_img": "shopify://shop_images/download_2.png",
             "link": ""
           }
         }
@@ -925,11 +931,11 @@
         "page_full_width": false,
         "page_full_width_spacing": false,
         "color_scheme": "background-1",
-        "title": "Marquee Section",
+        "title": "PROVIDERS",
         "heading_size": "h1",
         "sub_heading": "",
         "description": "",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "button_style_secondary": false,
         "column_alignment": "left",
@@ -987,6 +993,7 @@
         "image_f9JQRq",
         "image_xcWmrD"
       ],
+      "disabled": true,
       "name": "Marquee Section",
       "settings": {
         "page_full_width": false,

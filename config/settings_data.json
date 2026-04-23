@@ -334,9 +334,10 @@
           "bf394538-2976-4996-91e4-f1ef7b84a490": {
             "type": "text",
             "settings": {
+              "image": "shopify://shop_images/full_logo.png",
               "logo_width": 220,
               "heading": "",
-              "subtext": "<p>Quisque fermentum arcu dolor, vitae pharetra arcu efficitur in. Nulla sed dui in tortor suscipit pulvinar. In rhoncus, orci blandit tincidunt.</p>",
+              "subtext": "<p><br/>We provide software, games, courses, and subscriptions with instant delivery.<br/><br/></p>",
               "enable_social_icons": true,
               "alignment": "left"
             }
@@ -352,6 +353,7 @@
           },
           "8c88a831-9d3f-4039-9e74-6f7b20caa8ff": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "",
               "menu": "footer",
