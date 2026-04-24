@@ -22,7 +22,7 @@
             "block_sub_title": "",
             "block_description": "",
             "block_button_text": "Shop Now",
-            "block_button_link": "shopify://collections/engine-scan",
+            "block_button_link": "shopify://collections/all",
             "block_text_align": "left",
             "block_position": "bottom-left"
           }
@@ -80,7 +80,7 @@
         "primary_sub_title": "",
         "primary_description": "",
         "primary_button_text": "Shop Now",
-        "primary_button_link": "shopify://collections/break-disc",
+        "primary_button_link": "shopify://products/seo-powersuite",
         "primary_text_align": "left",
         "primary_position": "bottom-left",
         "main_banner_style": "overlay_style",
@@ -291,7 +291,7 @@
             "block_sub_title": "",
             "block_description": "Premium Software Deals",
             "block_button_text": "Shop Now",
-            "block_button_link": "shopify://collections/engine-scan",
+            "block_button_link": "shopify://collections/software",
             "block_author_text": "",
             "desktop_content_alignment": "right",
             "reverse_column": false
@@ -307,7 +307,7 @@
             "block_sub_title": "",
             "block_description": "Top PC & Console Games",
             "block_button_text": "Shop Now",
-            "block_button_link": "shopify://collections/car-engine",
+            "block_button_link": "shopify://collections/games",
             "block_author_text": "",
             "desktop_content_alignment": "right",
             "reverse_column": false
@@ -323,7 +323,7 @@
             "block_sub_title": "",
             "block_description": "OTT & Digital Subscriptions",
             "block_button_text": "Shop Now",
-            "block_button_link": "shopify://collections/electrical-works",
+            "block_button_link": "shopify://collections/subscription",
             "block_author_text": "",
             "desktop_content_alignment": "right",
             "reverse_column": false
@@ -480,7 +480,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/break-disc",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
