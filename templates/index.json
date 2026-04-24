@@ -122,7 +122,7 @@
         "34c1f57d-204a-4103-b7ed-de48a384460f": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seo-search-engine-opimization"
+            "collection": "software"
           }
         },
         "69568a46-939a-424c-8c26-68e4def2e12b": {
@@ -197,7 +197,7 @@
         "button_link": "",
         "button_style_secondary": false,
         "column_alignment": "center",
-        "collection": "seo-search-engine-opimization",
+        "collection": "software",
         "products_to_show": 5,
         "columns_desktop": 5,
         "show_view_all": false,
@@ -244,7 +244,7 @@
         "button_link": "",
         "button_style_secondary": false,
         "column_alignment": "left",
-        "collection": "seo-search-engine-opimization",
+        "collection": "software",
         "products_to_show": 8,
         "columns_desktop": 5,
         "show_view_all": false,
@@ -395,7 +395,7 @@
         "724ccfe0-7e42-4a10-8178-dd9bf7269aae": {
           "type": "tab",
           "settings": {
-            "collection": "seo-search-engine-opimization",
+            "collection": "software",
             "title": "SEO"
           }
         },
