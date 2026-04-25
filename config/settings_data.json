@@ -299,7 +299,7 @@
           "enable_transparent_header": false,
           "enable_social_icons": false,
           "social_btn_text": "Contact",
-          "social_btn_linkt": "https://cheapehai.shop/pages/contact",
+          "social_btn_linkt": "dninfo.online",
           "enable_country_selector": true,
           "enable_language_selector": true,
           "search_style": "search_box",
