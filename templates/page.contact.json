@@ -1,1 +1,125 @@
-{"sections":{"main":{"type":"main-page","settings":{"page_full_width":false,"page_full_width_spacing":false,"padding_top":0,"padding_bottom":0}},"0b8c12a8-0a65-4c8c-b88c-2a212202886f":{"type":"form-image","settings":{"page_full_width":true,"page_full_width_spacing":true,"heading":"Contact Us","heading_size":"h1","description":"","color_scheme":"background-1","phone_image":"shopify:\/\/shop_images\/AdobeStock_77452038_1_2x_9473dcd3-f13d-4976-bf07-247661b60b8b.png","padding_top":0,"padding_bottom":100}},"fbf29652-854d-4cda-a187-d4c2b1d52717":{"type":"contact-address-section","blocks":{"75654e33-1866-4215-9354-3f8c7d2be101":{"type":"column","settings":{"address_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_4.png","block_address":"No: 58 A, East Madison Street, Baltimore, MD, USA 4508","mail_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_5.png","block_contact_mail":"info@example.com","phone_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_3.png","block_contact_no":"000 - 123 - 456789"}},"cb81e8ae-e112-4397-aa92-842ba2bdd359":{"type":"column","settings":{"address_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_4.png","block_address":"3401 Silverado Dr, Ontario, Canada, L5A 3W5","mail_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_5.png","block_contact_mail":"support@example.com","phone_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_3.png","block_contact_no":"(1010) 123-456789"}},"a1b0d5be-5434-4a8e-8f40-8318918a88de":{"type":"column","settings":{"address_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_4.png","block_address":"#8768 St. Park, New York, NY 11375","mail_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_5.png","block_contact_mail":"Contact@example.com","phone_icon":"shopify:\/\/shop_images\/Vector_Smart_Object_copy_3.png","block_contact_no":"+00123456789"}}},"block_order":["75654e33-1866-4215-9354-3f8c7d2be101","cb81e8ae-e112-4397-aa92-842ba2bdd359","a1b0d5be-5434-4a8e-8f40-8318918a88de"],"settings":{"page_full_width":true,"page_full_width_spacing":true,"title":"Our Branches at","heading_size":"h1","sub_heading":"","description":"Cras dictum odio sed aliquam eleifend. Lorem ipsum dolor sit amet, consecte adipiscing elit. Etiam lorem lectus Pellentesque lacinia sollicitudin luctus Phas pretium porta odio a porta. Cras fringilla iaculis.","button_label":"","button_link":"","button_style_secondary":false,"column_alignment":"center","columns_desktop":3,"background_style":"primary","color_scheme":"background-1","icon_outer_size":"","block_color_scheme":"inverse","padding_top":0,"padding_bottom":100,"swiper_enable":false,"desktop_column":4,"tablet_column":3,"mobile_column":1,"swiper_pagination":false,"swiper_navigation":false,"auto_play":0,"swipe_on_mobile":true,"arrow_on_mobile":true,"columns_mobile":"1","custom_class_name":"custom-address-block"}},"b00cb236-0029-4168-99a5-576803e86dae":{"type":"custom-liquid","settings":{"page_full_width":true,"page_full_width_spacing":false,"custom_liquid":"<iframe src=\"https:\/\/snazzymaps.com\/embed\/493545\" width=\"100%\" height=\"600px\" style=\"border:none;\"><\/iframe>","color_scheme":"background-1","padding_top":0,"padding_bottom":0,"address_heading":"","address_desc":"","collapsible_address":"","collapsible_contact_no":"","collapsible_contact_id":""}}},"order":["main","0b8c12a8-0a65-4c8c-b88c-2a212202886f","fbf29652-854d-4cda-a187-d4c2b1d52717","b00cb236-0029-4168-99a5-576803e86dae"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0b8c12a8-0a65-4c8c-b88c-2a212202886f": {
+      "type": "form-image",
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": true,
+        "heading": "Contact Us",
+        "heading_size": "h1",
+        "description": "",
+        "color_scheme": "background-1",
+        "phone_image": "shopify://shop_images/full_logo.png",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "fbf29652-854d-4cda-a187-d4c2b1d52717": {
+      "type": "contact-address-section",
+      "blocks": {
+        "75654e33-1866-4215-9354-3f8c7d2be101": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "block_address": "No: 58 A, East Madison Street, Baltimore, MD, USA 4508",
+            "block_contact_mail": "info@example.com",
+            "block_contact_no": "000 - 123 - 456789"
+          }
+        },
+        "cb81e8ae-e112-4397-aa92-842ba2bdd359": {
+          "type": "column",
+          "settings": {
+            "block_address": "Delhi, India",
+            "block_contact_mail": "cheaphaishop07@gmail.com",
+            "block_contact_no": "+63 910 871 5747"
+          }
+        },
+        "a1b0d5be-5434-4a8e-8f40-8318918a88de": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "block_address": "#8768 St. Park, New York, NY 11375",
+            "block_contact_mail": "Contact@example.com",
+            "block_contact_no": "+00123456789"
+          }
+        }
+      },
+      "block_order": [
+        "75654e33-1866-4215-9354-3f8c7d2be101",
+        "cb81e8ae-e112-4397-aa92-842ba2bdd359",
+        "a1b0d5be-5434-4a8e-8f40-8318918a88de"
+      ],
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": true,
+        "bg_image": "shopify://shop_images/download_2.jpg",
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "icon_outer_size": "",
+        "block_color_scheme": "inverse",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": true,
+        "arrow_on_mobile": true,
+        "columns_mobile": "1",
+        "custom_class_name": "custom-address-block"
+      }
+    },
+    "b00cb236-0029-4168-99a5-576803e86dae": {
+      "type": "custom-liquid",
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d27227.635365723178!2d77.22268354038347!3d28.594277513726315!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1777121095793!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "address_heading": "",
+        "address_desc": "",
+        "collapsible_address": "",
+        "collapsible_contact_no": "",
+        "collapsible_contact_id": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0b8c12a8-0a65-4c8c-b88c-2a212202886f",
+    "fbf29652-854d-4cda-a187-d4c2b1d52717",
+    "b00cb236-0029-4168-99a5-576803e86dae"
+  ]
+}
