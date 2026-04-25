@@ -40,7 +40,7 @@
     "display_item_size": false,
     "enable_timer": false,
     "enable_wishlist": true,
-    "enable_compare": true,
+    "enable_compare": false,
     "enable_quickview": true,
     "enable_quickadd": true,
     "enable_scroll_to_top": true,

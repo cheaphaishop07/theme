@@ -110,25 +110,31 @@
         "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "animation-2d-3d-design"
+            "collection": "software"
           }
         },
-        "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-2": {
+        "featured_collection_pNaJja": {
           "type": "featured_collection",
           "settings": {
             "collection": "bundles"
           }
         },
+        "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "games"
+          }
+        },
         "34c1f57d-204a-4103-b7ed-de48a384460f": {
           "type": "featured_collection",
           "settings": {
-            "collection": "software"
+            "collection": "courses"
           }
         },
         "69568a46-939a-424c-8c26-68e4def2e12b": {
           "type": "featured_collection",
           "settings": {
-            "collection": "video-editing-motion-graphics"
+            "collection": "subscription"
           }
         },
         "e240a1a0-9968-4b91-ae27-e9b2820c6b74": {
@@ -147,6 +153,7 @@
       "block_order": [
         "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-0",
         "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-1",
+        "featured_collection_pNaJja",
         "template--19459822584088__6ee4d989-705c-4fdb-adc7-dd0b42961ed0-1687180634eb617ec4-2",
         "34c1f57d-204a-4103-b7ed-de48a384460f",
         "69568a46-939a-424c-8c26-68e4def2e12b",
@@ -198,7 +205,7 @@
         "button_style_secondary": false,
         "column_alignment": "center",
         "collection": "software",
-        "products_to_show": 5,
+        "products_to_show": 12,
         "columns_desktop": 5,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -233,6 +240,7 @@
     },
     "ff5b7e85-3596-473e-8dac-f1ec70a87168": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "page_full_width": true,
         "page_full_width_spacing": true,
@@ -526,7 +534,7 @@
         "button_link": "",
         "button_style_secondary": false,
         "column_alignment": "center",
-        "collection": "digital-forensics",
+        "collection": "games",
         "products_to_show": 4,
         "columns_desktop": 4,
         "show_view_all": false,

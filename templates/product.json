@@ -41,7 +41,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "Nunc vehicula quam semper odio varius tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posue.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -162,7 +162,7 @@
         "sidebar_link": "/",
         "show_collection": true,
         "collection_title": "Heading",
-        "collection": "dummy-collection1",
+        "collection": "recommand",
         "collection_limit": 5,
         "enable_enquiry": true,
         "padding_top": 0,
