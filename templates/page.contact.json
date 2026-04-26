@@ -9,6 +9,24 @@
  */
 {
   "sections": {
+    "custom_liquid_BpfGR7": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "custom_liquid": "{% form 'contact', id: 967202 %}\n  {% if form.posted_successfully? %}\n    <div class=\"form-status form-status-list form-status-success\" role=\"status\">\n      <h2 class=\"form-status__heading\" tabindex=\"-1\" autofocus>\n        {{ 'templates.contact.form.post_success' | t }}\n      </h2>\n    </div>\n  {% elsif form.errors %}\n    <div class=\"form-status form-status-list form-status-error\" role=\"alert\">\n      <h2 class=\"form-status__heading\" tabindex=\"-1\" autofocus>\n        {{ 'templates.contact.form.error_heading' | t }}\n      </h2>\n      <ul class=\"form-status__list\" role=\"list\">\n        {% for field in form.errors %}\n          <li>\n            <a href=\"#ContactForm-{{ field }}\">\n              {{ form.errors[field] }}\n            </a>\n          </li>\n        {% endfor %}\n      </ul>\n    </div>\n  {% endif %}\n{% endform %}",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "address_heading": "Heading",
+        "address_desc": "Description",
+        "collapsible_address": "",
+        "collapsible_contact_no": "",
+        "collapsible_contact_id": ""
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -18,18 +36,17 @@
         "padding_bottom": 0
       }
     },
-    "0b8c12a8-0a65-4c8c-b88c-2a212202886f": {
-      "type": "form-image",
+    "contact_form_NNtJBW": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
       "settings": {
-        "page_full_width": true,
-        "page_full_width_spacing": true,
-        "heading": "Contact Us",
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "heading": "Contact form",
         "heading_size": "h1",
-        "description": "",
         "color_scheme": "background-1",
-        "phone_image": "shopify://shop_images/full_logo.png",
-        "padding_top": 0,
-        "padding_bottom": 100
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "fbf29652-854d-4cda-a187-d4c2b1d52717": {
@@ -104,7 +121,7 @@
       "settings": {
         "page_full_width": true,
         "page_full_width_spacing": false,
-        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d27227.635365723178!2d77.22268354038347!3d28.594277513726315!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1777121095793!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "custom_liquid": "{% form 'contact', id: 967202 %}{% endform %}",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0,
@@ -117,8 +134,9 @@
     }
   },
   "order": [
+    "custom_liquid_BpfGR7",
     "main",
-    "0b8c12a8-0a65-4c8c-b88c-2a212202886f",
+    "contact_form_NNtJBW",
     "fbf29652-854d-4cda-a187-d4c2b1d52717",
     "b00cb236-0029-4168-99a5-576803e86dae"
   ]
