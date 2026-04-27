@@ -143,7 +143,7 @@
     "show_secondary_image": true,
     "show_new_tag": true,
     "show_rating": true,
-    "favicon": "shopify://shop_images/Group_140797.png",
+    "favicon": "shopify://shop_images/favicon-32x32.png",
     "currency_code_enabled": false,
     "cart_type": "drawer",
     "show_vendor": true,
