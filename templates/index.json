@@ -382,43 +382,43 @@
         "d70647a2-204d-4742-b07e-125cfdb81bc2": {
           "type": "tab",
           "settings": {
-            "collection": "adobe",
+            "collection": "all",
             "title": "All"
           }
         },
         "4aad1ddf-12aa-4122-b47d-75d30717ee50": {
           "type": "tab",
           "settings": {
-            "collection": "animation-2d-3d-design",
-            "title": "Animation"
+            "collection": "bundles",
+            "title": "Bundles"
           }
         },
         "d2a103f4-af25-4fa3-900b-7397309aa2bc": {
           "type": "tab",
           "settings": {
-            "collection": "digital-forensics",
-            "title": "Forensics"
+            "collection": "courses",
+            "title": "Courses"
           }
         },
         "724ccfe0-7e42-4a10-8178-dd9bf7269aae": {
           "type": "tab",
           "settings": {
             "collection": "software",
-            "title": "SEO"
+            "title": "Software"
           }
         },
         "1adc91c3-d6d7-4a0a-b6c3-8b233e91b237": {
           "type": "tab",
           "settings": {
-            "collection": "video-editing-motion-graphics",
-            "title": "Editing"
+            "collection": "games",
+            "title": "Games"
           }
         },
         "be92f779-110c-4ead-b26f-f52ee530620d": {
           "type": "tab",
           "settings": {
-            "collection": "whatsapp-automation-software",
-            "title": "automation"
+            "collection": "subscription",
+            "title": "Subscriptions"
           }
         }
       },
